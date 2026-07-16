@@ -1,0 +1,2643 @@
+{
+ "version": 1,
+ "categories": [
+  "Romantic",
+  "Upbeat",
+  "Epic",
+  "Cinematic",
+  "Fun",
+  "Electronic",
+  "World",
+  "Misc"
+ ],
+ "tracks": [
+  {
+   "name": "A Very Brady Special",
+   "artist": "Kevin MacLeod",
+   "category": "Romantic",
+   "duration": 388,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/a-very-brady-special.m4a",
+   "size": "6.3 MB",
+   "premium": false
+  },
+  {
+   "name": "Amazing Grace",
+   "artist": "Kevin MacLeod",
+   "category": "Romantic",
+   "duration": 114,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/amazing-grace.m4a",
+   "size": "1.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Brothers Unite",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 183,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/brothers-unite.m4a",
+   "size": "3.0 MB",
+   "premium": false
+  },
+  {
+   "name": "Burt's Requiem",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 388,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/burt-s-requiem.m4a",
+   "size": "6.3 MB",
+   "premium": false
+  },
+  {
+   "name": "Champ de tournesol",
+   "artist": "Komiku",
+   "category": "Romantic",
+   "duration": 118,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/champ-de-tournesol.m4a",
+   "size": "1.9 MB",
+   "premium": false
+  },
+  {
+   "name": "Horizon Flare",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 102,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/horizon-flare.m4a",
+   "size": "1.7 MB",
+   "premium": false
+  },
+  {
+   "name": "Isolation Waltz",
+   "artist": "Bryan Teoh",
+   "category": "Romantic",
+   "duration": 205,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/isolation-waltz.m4a",
+   "size": "3.3 MB",
+   "premium": true
+  },
+  {
+   "name": "La Citadelle",
+   "artist": "Komiku",
+   "category": "Romantic",
+   "duration": 162,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/la-citadelle.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Landra's Dream",
+   "artist": "Jason Shaw",
+   "category": "Romantic",
+   "duration": 89,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/landra-s-dream.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Lovely Piano Song",
+   "artist": "FreePD.com",
+   "category": "Romantic",
+   "duration": 96,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/lovely-piano-song.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Lucky Break",
+   "artist": "Bryan Teoh",
+   "category": "Romantic",
+   "duration": 286,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/lucky-break.m4a",
+   "size": "4.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Night in Venice",
+   "artist": "Kevin MacLeod",
+   "category": "Romantic",
+   "duration": 218,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/night-in-venice.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Nostalgic Piano",
+   "artist": "FreePD.com",
+   "category": "Romantic",
+   "duration": 196,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/nostalgic-piano.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Parhelion",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 162,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/parhelion.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Patience Party",
+   "artist": "Kevin MacLeod",
+   "category": "Romantic",
+   "duration": 243,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/patience-party.m4a",
+   "size": "3.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Piano Magic Motive",
+   "artist": "Kevin MacLeod",
+   "category": "Romantic",
+   "duration": 78,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/piano-magic-motive.m4a",
+   "size": "1.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Pina Colada",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 164,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/pina-colada.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Pond",
+   "artist": "FreePD.com",
+   "category": "Romantic",
+   "duration": 152,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/pond.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Romantic Inspiration",
+   "artist": "FreePD.com",
+   "category": "Romantic",
+   "duration": 150,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/romantic-inspiration.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Shining Stars",
+   "artist": "FreePD.com",
+   "category": "Romantic",
+   "duration": 140,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/shining-stars.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Winter",
+   "artist": "Alexander Nakarada",
+   "category": "Romantic",
+   "duration": 313,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/romantic/winter.m4a",
+   "size": "4.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Advertime",
+   "artist": "FreePD.com",
+   "category": "Upbeat",
+   "duration": 134,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/advertime.m4a",
+   "size": "2.2 MB",
+   "premium": false
+  },
+  {
+   "name": "And Just Like That",
+   "artist": "Bryan Teoh",
+   "category": "Upbeat",
+   "duration": 114,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/and-just-like-that.m4a",
+   "size": "1.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Bar Brawl",
+   "artist": "Bryan Teoh",
+   "category": "Upbeat",
+   "duration": 123,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/bar-brawl.m4a",
+   "size": "2.0 MB",
+   "premium": false
+  },
+  {
+   "name": "Be Chillin",
+   "artist": "Alexander Nakarada",
+   "category": "Upbeat",
+   "duration": 203,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/be-chillin.m4a",
+   "size": "3.3 MB",
+   "premium": false
+  },
+  {
+   "name": "City Sunshine",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 185,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/city-sunshine.m4a",
+   "size": "3.2 MB",
+   "premium": false
+  },
+  {
+   "name": "From Page to Practice",
+   "artist": "Bryan Teoh",
+   "category": "Upbeat",
+   "duration": 137,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/from-page-to-practice.m4a",
+   "size": "2.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Funshine",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 165,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/funshine.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Happy Whistling Ukulele",
+   "artist": "FreePD.com",
+   "category": "Upbeat",
+   "duration": 123,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/happy-whistling-ukulele.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Inspiration",
+   "artist": "FreePD.com",
+   "category": "Upbeat",
+   "duration": 138,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/inspiration.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Inventing Flight",
+   "artist": "Bryan Teoh",
+   "category": "Upbeat",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/inventing-flight.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Limit 70",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 302,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/limit-70.m4a",
+   "size": "5.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Motions",
+   "artist": "Orchestralis",
+   "category": "Upbeat",
+   "duration": 117,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/motions.m4a",
+   "size": "1.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Pickled Pink",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 175,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/pickled-pink.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Relaxing Ballad",
+   "artist": "Alexander Nakarada",
+   "category": "Upbeat",
+   "duration": 209,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/relaxing-ballad.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Screen Saver",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 182,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/screen-saver.m4a",
+   "size": "3.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Stereotype News",
+   "artist": "Rafael Krux",
+   "category": "Upbeat",
+   "duration": 66,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/stereotype-news.m4a",
+   "size": "1.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Still Pickin",
+   "artist": "Kevin MacLeod",
+   "category": "Upbeat",
+   "duration": 298,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/still-pickin.m4a",
+   "size": "4.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Ukulele Song",
+   "artist": "FreePD.com",
+   "category": "Upbeat",
+   "duration": 139,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/upbeat/ukulele-song.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Adventure",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 85,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/adventure.m4a",
+   "size": "1.4 MB",
+   "premium": false
+  },
+  {
+   "name": "Adventures of Flying Jack",
+   "artist": "Alexander Nakarada",
+   "category": "Epic",
+   "duration": 73,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/adventures-of-flying-jack.m4a",
+   "size": "1.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Ancient Rite",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 113,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/ancient-rite.m4a",
+   "size": "1.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Assassin",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 186,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/assassin.m4a",
+   "size": "3.1 MB",
+   "premium": false
+  },
+  {
+   "name": "Battle Ready",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 78,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/battle-ready.m4a",
+   "size": "1.3 MB",
+   "premium": false
+  },
+  {
+   "name": "Behind Enemy Lines",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 115,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/behind-enemy-lines.m4a",
+   "size": "1.9 MB",
+   "premium": false
+  },
+  {
+   "name": "Beyond - part 2",
+   "artist": "Alexander Nakarada",
+   "category": "Epic",
+   "duration": 285,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/beyond-part-2.m4a",
+   "size": "4.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Big Eyes",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 149,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/big-eyes.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Black Knight",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/black-knight.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Cornfield Chase",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 138,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/cornfield-chase.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Emotional Blockbuster 2",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 132,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/emotional-blockbuster-2.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Epic Blockbuster 2",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 160,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/epic-blockbuster-2.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Epic Boss Battle",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 170,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/epic-boss-battle.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Evil Incoming",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 175,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/evil-incoming.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Fanfare X",
+   "artist": "Alexander Nakarada",
+   "category": "Epic",
+   "duration": 40,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/fanfare-x.m4a",
+   "size": "0.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Go On Without Me",
+   "artist": "Bryan Teoh",
+   "category": "Epic",
+   "duration": 195,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/go-on-without-me.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Gothamlicious",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 48,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/gothamlicious.m4a",
+   "size": "0.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Heroic Adventure",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 143,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/heroic-adventure.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Hit n Smash",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 133,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/hit-n-smash.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Honor Bound",
+   "artist": "Bryan Teoh",
+   "category": "Epic",
+   "duration": 171,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/honor-bound.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Kings Trailer",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 163,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/kings-trailer.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Lonely Mountain",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 190,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/lonely-mountain.m4a",
+   "size": "3.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Mothership",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 126,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/mothership.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "New Hero in Town",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 57,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/new-hero-in-town.m4a",
+   "size": "0.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Night Attack",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 153,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/night-attack.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Night Vigil",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 288,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/night-vigil.m4a",
+   "size": "4.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Overture",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 99,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/overture.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Putin's Lullaby",
+   "artist": "Alexander Nakarada",
+   "category": "Epic",
+   "duration": 127,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/putin-s-lullaby.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Release the Hybrids",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 124,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/release-the-hybrids.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Rulers of Our Lands",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Epic",
+   "duration": 139,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/rulers-of-our-lands.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Strength of the Titans",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 62,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/strength-of-the-titans.m4a",
+   "size": "1.0 MB",
+   "premium": true
+  },
+  {
+   "name": "The Enemy",
+   "artist": "Alexander Nakarada",
+   "category": "Epic",
+   "duration": 103,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/the-enemy.m4a",
+   "size": "1.7 MB",
+   "premium": true
+  },
+  {
+   "name": "The Ice Giants",
+   "artist": "Kevin MacLeod",
+   "category": "Epic",
+   "duration": 44,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/the-ice-giants.m4a",
+   "size": "0.7 MB",
+   "premium": true
+  },
+  {
+   "name": "The Range",
+   "artist": "Rafael Krux",
+   "category": "Epic",
+   "duration": 85,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/the-range.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Think About It",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 120,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/think-about-it.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Video Game Blockbuster",
+   "artist": "FreePD.com",
+   "category": "Epic",
+   "duration": 143,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/epic/video-game-blockbuster.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Action Strike",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 135,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/action-strike.m4a",
+   "size": "2.2 MB",
+   "premium": false
+  },
+  {
+   "name": "After the End",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 98,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/after-the-end.m4a",
+   "size": "1.6 MB",
+   "premium": false
+  },
+  {
+   "name": "Beginning of Conflict",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 99,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/beginning-of-conflict.m4a",
+   "size": "1.6 MB",
+   "premium": false
+  },
+  {
+   "name": "City Run",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 37,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/city-run.m4a",
+   "size": "0.6 MB",
+   "premium": false
+  },
+  {
+   "name": "Desert Fox",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 133,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/desert-fox.m4a",
+   "size": "2.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Desert Fox Underscore",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 133,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/desert-fox-underscore.m4a",
+   "size": "2.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Dreams of Vain",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 97,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/dreams-of-vain.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Driving Concern",
+   "artist": "Kevin MacLeod",
+   "category": "Cinematic",
+   "duration": 200,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/driving-concern.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Final Step",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 95,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/final-step.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Find Them",
+   "artist": "Alexander Nakarada",
+   "category": "Cinematic",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/find-them.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Funky Energy Loop",
+   "artist": "Kevin MacLeod",
+   "category": "Cinematic",
+   "duration": 203,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/funky-energy-loop.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Guerilla Tactics",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 109,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/guerilla-tactics.m4a",
+   "size": "1.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Ice and Snow",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/ice-and-snow.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Magic in the Garden",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 140,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/magic-in-the-garden.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Novus Initium",
+   "artist": "Alexander Nakarada",
+   "category": "Cinematic",
+   "duration": 163,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/novus-initium.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Patron Saint of Heists",
+   "artist": "Bryan Teoh",
+   "category": "Cinematic",
+   "duration": 187,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/patron-saint-of-heists.m4a",
+   "size": "3.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Slice of Life",
+   "artist": "Bryan Teoh",
+   "category": "Cinematic",
+   "duration": 141,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/slice-of-life.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Stunted Adventure",
+   "artist": "Bryan Teoh",
+   "category": "Cinematic",
+   "duration": 70,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/stunted-adventure.m4a",
+   "size": "1.1 MB",
+   "premium": true
+  },
+  {
+   "name": "The Drama",
+   "artist": "Rafael Krux",
+   "category": "Cinematic",
+   "duration": 97,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/the-drama.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "The Lagoon",
+   "artist": "Alexander Nakarada",
+   "category": "Cinematic",
+   "duration": 154,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/the-lagoon.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Travelers Notebook",
+   "artist": "FreePD.com",
+   "category": "Cinematic",
+   "duration": 123,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/cinematic/travelers-notebook.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Alls Fair In Love",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 239,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/alls-fair-in-love.m4a",
+   "size": "4.0 MB",
+   "premium": false
+  },
+  {
+   "name": "Attic Secrets",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Fun",
+   "duration": 66,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/attic-secrets.m4a",
+   "size": "1.1 MB",
+   "premium": false
+  },
+  {
+   "name": "Baltic Levity",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 48,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/baltic-levity.m4a",
+   "size": "0.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Barnville",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 102,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/barnville.m4a",
+   "size": "1.7 MB",
+   "premium": false
+  },
+  {
+   "name": "Barroom Ballet",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 56,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/barroom-ballet.m4a",
+   "size": "0.9 MB",
+   "premium": false
+  },
+  {
+   "name": "BeBop for Joey",
+   "artist": "FreePD.com",
+   "category": "Fun",
+   "duration": 139,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/bebop-for-joey.m4a",
+   "size": "2.3 MB",
+   "premium": false
+  },
+  {
+   "name": "Busybody",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 86,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/busybody.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Cha-Cha Ender",
+   "artist": "Anonymous for Good Reasons",
+   "category": "Fun",
+   "duration": 5,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/cha-cha-ender.m4a",
+   "size": "0.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Circus of Freaks",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 56,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/circus-of-freaks.m4a",
+   "size": "0.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Comic Game Loop - Mischief",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 43,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/comic-game-loop-mischief.m4a",
+   "size": "0.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Creepy Comedy",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Fun",
+   "duration": 138,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/creepy-comedy.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Dance of the Tuba Plum Fairy",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 29,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/dance-of-the-tuba-plum-fairy.m4a",
+   "size": "0.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Drunken Party",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 121,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/drunken-party.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Fancy Family",
+   "artist": "Rafael Krux, CinematicWaves.com",
+   "category": "Fun",
+   "duration": 68,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/fancy-family.m4a",
+   "size": "1.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Fenster's Explanation",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 169,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/fenster-s-explanation.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Foam Rubber",
+   "artist": "Alexander Nakarada",
+   "category": "Fun",
+   "duration": 153,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/foam-rubber.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Fright Night Twist",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 176,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/fright-night-twist.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Frogs Legs Rag",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 170,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/frogs-legs-rag.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Ghost Town",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 139,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/ghost-town.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Going Bananas",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 141,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/going-bananas.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Hello! Ma Baby",
+   "artist": "Anonymous for Good Reasons",
+   "category": "Fun",
+   "duration": 50,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/hello-ma-baby.m4a",
+   "size": "0.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Holiday Weasel",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 85,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/holiday-weasel.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Hopeful",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 114,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/hopeful.m4a",
+   "size": "1.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Horns",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 204,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/horns.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Joey's Song",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 207,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/joey-s-song.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Jungle Mission",
+   "artist": "FreePD.com",
+   "category": "Fun",
+   "duration": 187,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/jungle-mission.m4a",
+   "size": "3.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Krampus's Workshop",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 91,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/krampus-s-workshop.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Llama in Pajama",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 97,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/llama-in-pajama.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Lurking Sloth",
+   "artist": "Alexander Nakarada",
+   "category": "Fun",
+   "duration": 158,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/lurking-sloth.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Madness of Linda",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 138,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/madness-of-linda.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Managing Mischief",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 164,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/managing-mischief.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Maple Leaf Rag",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 179,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/maple-leaf-rag.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Monsters in Hotel",
+   "artist": "FreePD.com",
+   "category": "Fun",
+   "duration": 126,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/monsters-in-hotel.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "My Giant Bunny Friend",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 165,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/my-giant-bunny-friend.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Night in the Castle",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 189,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/night-in-the-castle.m4a",
+   "size": "3.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Organ Filler",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 90,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/organ-filler.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Rush",
+   "artist": "FreePD.com",
+   "category": "Fun",
+   "duration": 134,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/rush.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Sad Drunken Party",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 283,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/sad-drunken-party.m4a",
+   "size": "4.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Silly Boy",
+   "artist": "Rafael Krux",
+   "category": "Fun",
+   "duration": 96,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/silly-boy.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Silly Intro",
+   "artist": "Alexander Nakarada",
+   "category": "Fun",
+   "duration": 25,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/silly-intro.m4a",
+   "size": "0.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Spring Chicken",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 167,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/spring-chicken.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Take the Ride",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 262,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/take-the-ride.m4a",
+   "size": "4.3 MB",
+   "premium": true
+  },
+  {
+   "name": "The Entertainer",
+   "artist": "Kevin MacLeod",
+   "category": "Fun",
+   "duration": 193,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/the-entertainer.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "USSR",
+   "artist": "Alexander Nakarada",
+   "category": "Fun",
+   "duration": 106,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/ussr.m4a",
+   "size": "1.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Vintage Party",
+   "artist": "FreePD.com",
+   "category": "Fun",
+   "duration": 75,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/vintage-party.m4a",
+   "size": "1.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Wakka Wakka",
+   "artist": "Bryan Teoh",
+   "category": "Fun",
+   "duration": 122,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/fun/wakka-wakka.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "3 am West End",
+   "artist": "statusq",
+   "category": "Electronic",
+   "duration": 291,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/3-am-west-end.m4a",
+   "size": "4.9 MB",
+   "premium": false
+  },
+  {
+   "name": "Arpent",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 162,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/arpent.m4a",
+   "size": "2.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Backbeat",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 46,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/backbeat.m4a",
+   "size": "0.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Beat One",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 180,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/beat-one.m4a",
+   "size": "3.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Beat Thee",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 192,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/beat-thee.m4a",
+   "size": "3.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Bit Bit Loop",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 77,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/bit-bit-loop.m4a",
+   "size": "1.4 MB",
+   "premium": false
+  },
+  {
+   "name": "Chronos",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 129,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/chronos.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Favorite",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 175,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/favorite.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Fireworks",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 191,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/fireworks.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Goodnightmare",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 240,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/goodnightmare.m4a",
+   "size": "4.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Hear What They Say",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 138,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/hear-what-they-say.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Hippety Hop",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 117,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/hippety-hop.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Meditating Beat",
+   "artist": "Kevin MacLeod",
+   "category": "Electronic",
+   "duration": 157,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/meditating-beat.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Space Ambience",
+   "artist": "Alexander Nakarada",
+   "category": "Electronic",
+   "duration": 276,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/electronic/space-ambience.m4a",
+   "size": "4.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Ambient Bongos",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 88,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/ambient-bongos.m4a",
+   "size": "1.5 MB",
+   "premium": false
+  },
+  {
+   "name": "Aquatic City Vanished",
+   "artist": "FreePD.com",
+   "category": "World",
+   "duration": 149,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/aquatic-city-vanished.m4a",
+   "size": "2.4 MB",
+   "premium": false
+  },
+  {
+   "name": "Bavarian Seascape",
+   "artist": "FreePD.com",
+   "category": "World",
+   "duration": 231,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/bavarian-seascape.m4a",
+   "size": "3.7 MB",
+   "premium": false
+  },
+  {
+   "name": "Be Jammin",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 167,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/be-jammin.m4a",
+   "size": "2.8 MB",
+   "premium": false
+  },
+  {
+   "name": "Blacksmith",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 161,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/blacksmith.m4a",
+   "size": "2.6 MB",
+   "premium": false
+  },
+  {
+   "name": "Blood Eagle",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 228,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/blood-eagle.m4a",
+   "size": "3.7 MB",
+   "premium": false
+  },
+  {
+   "name": "Bollywood Groove",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 150,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/bollywood-groove.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Bonfire",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 99,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/bonfire.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Breaking Bollywood",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 225,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/breaking-bollywood.m4a",
+   "size": "3.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Connecting Rainbows",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 116,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/connecting-rainbows.m4a",
+   "size": "1.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Coy Koi",
+   "artist": "FreePD.com",
+   "category": "World",
+   "duration": 48,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/coy-koi.m4a",
+   "size": "0.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Cumbish",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 192,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/cumbish.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Del Rio Bravo",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 204,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/del-rio-bravo.m4a",
+   "size": "3.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Desert Conflict",
+   "artist": "FreePD.com",
+   "category": "World",
+   "duration": 160,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/desert-conflict.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Experimental Test Subject",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 164,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/experimental-test-subject.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Eye of Forgiveness",
+   "artist": "Rafael Krux",
+   "category": "World",
+   "duration": 99,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/eye-of-forgiveness.m4a",
+   "size": "1.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Forest Frolic Loop",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 37,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/forest-frolic-loop.m4a",
+   "size": "0.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Hillbilly Swing",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 167,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/hillbilly-swing.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Le Baguette",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 54,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/le-baguette.m4a",
+   "size": "0.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Marked",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 153,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/marked.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Midnight in the Green House",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 212,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/midnight-in-the-green-house.m4a",
+   "size": "3.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Nomadic Sunset",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 191,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/nomadic-sunset.m4a",
+   "size": "3.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Northur",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 224,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/northur.m4a",
+   "size": "3.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Shenzhen Nightlife",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 263,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/shenzhen-nightlife.m4a",
+   "size": "4.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Sunny Rasta",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 140,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/sunny-rasta.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "The Desert",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 130,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/the-desert.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "The Story",
+   "artist": "Alexander Nakarada",
+   "category": "World",
+   "duration": 147,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/the-story.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Village Tarantella",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 53,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/village-tarantella.m4a",
+   "size": "0.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Windy Old Weather",
+   "artist": "Kevin MacLeod",
+   "category": "World",
+   "duration": 91,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/world/windy-old-weather.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "A Good Bass for Gambling",
+   "artist": "Komiku",
+   "category": "Misc",
+   "duration": 156,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/a-good-bass-for-gambling.m4a",
+   "size": "2.6 MB",
+   "premium": false
+  },
+  {
+   "name": "A Waltz For Naseem",
+   "artist": "dogsounds",
+   "category": "Misc",
+   "duration": 217,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/a-waltz-for-naseem.m4a",
+   "size": "3.5 MB",
+   "premium": false
+  },
+  {
+   "name": "Abstract Anxiety",
+   "artist": "Severed Personality",
+   "category": "Misc",
+   "duration": 269,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/abstract-anxiety.m4a",
+   "size": "4.4 MB",
+   "premium": false
+  },
+  {
+   "name": "Adding the Sun",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 176,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/adding-the-sun.m4a",
+   "size": "3.0 MB",
+   "premium": false
+  },
+  {
+   "name": "Ambush in Rattlesnake Gulch",
+   "artist": "Brian Boyko",
+   "category": "Misc",
+   "duration": 614,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ambush-in-rattlesnake-gulch.m4a",
+   "size": "10.2 MB",
+   "premium": false
+  },
+  {
+   "name": "Ancient Winds [1⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-16.m4a",
+   "size": "9.6 MB",
+   "premium": false
+  },
+  {
+   "name": "Ancient Winds [2⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-26.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ancient Winds [3⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-36.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ancient Winds [4⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-46.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ancient Winds [5⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-56.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ancient Winds [6⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ancient-winds-66.m4a",
+   "size": "9.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Apex",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 317,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/apex.m4a",
+   "size": "5.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Aquarium",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 144,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/aquarium.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Awkward Apocalyptic Pickup",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 44,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/awkward-apocalyptic-pickup.m4a",
+   "size": "0.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Bass Meant Jazz",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 280,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/bass-meant-jazz.m4a",
+   "size": "4.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Behind the Sword",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 179,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/behind-the-sword.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Bleu",
+   "artist": "Komiku",
+   "category": "Misc",
+   "duration": 211,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/bleu.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Blippy Trance",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 120,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/blippy-trance.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Bouchedag",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 77,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/bouchedag.m4a",
+   "size": "1.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Brandenburg Concerto III, Allegro I",
+   "artist": "dogsounds",
+   "category": "Misc",
+   "duration": 300,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/brandenburg-concerto-iii-allegro-i.m4a",
+   "size": "4.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Brewing Potions",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 94,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/brewing-potions.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Burning Trapezoid of Fire",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 241,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/burning-trapezoid-of-fire.m4a",
+   "size": "4.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Celebration",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 143,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/celebration.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Circuit",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 180,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/circuit.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Cold Journey",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 291,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/cold-journey.m4a",
+   "size": "4.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Compy Jazz",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 247,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/compy-jazz.m4a",
+   "size": "4.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Construction",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 195,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/construction.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Dancing at the Inn",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 158,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/dancing-at-the-inn.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Dark Hallway",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 47,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/dark-hallway.m4a",
+   "size": "0.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Deck the Halls",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 107,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/deck-the-halls.m4a",
+   "size": "1.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Downtown Boogie",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 147,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/downtown-boogie.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Drop Point",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 184,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/drop-point.m4a",
+   "size": "3.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [1⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-16.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [2⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-26.m4a",
+   "size": "9.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [3⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-36.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [4⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-46.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [5⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-56.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Ebbs and Flows [6⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/ebbs-and-flows-66.m4a",
+   "size": "9.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [1⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-16.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [2⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-26.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [3⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-36.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [4⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-46.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [5⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-56.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Elf Meditation [6⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/elf-meditation-66.m4a",
+   "size": "9.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Energizing",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 133,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/energizing.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Fake It Til You Fake It",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 174,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/fake-it-til-you-fake-it.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Finally See The Light",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 201,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/finally-see-the-light.m4a",
+   "size": "3.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Flutey Jazz",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 247,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/flutey-jazz.m4a",
+   "size": "3.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Forest Night",
+   "artist": "Phase Shift",
+   "category": "Misc",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/forest-night.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Funkeriffic",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 210,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/funkeriffic.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Goldcrest",
+   "artist": "James Anderson",
+   "category": "Misc",
+   "duration": 142,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/goldcrest.m4a",
+   "size": "2.3 MB",
+   "premium": true
+  },
+  {
+   "name": "Gotta Keep On Movin",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 144,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/gotta-keep-on-movin.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Groovin",
+   "artist": "Brian Boyko",
+   "category": "Misc",
+   "duration": 240,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/groovin.m4a",
+   "size": "4.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Hold on a Sec",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 126,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/hold-on-a-sec.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "I Guess What I'm Trying to Say",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 153,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/i-guess-what-i-m-trying-to-say.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Icicles Melting",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 178,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/icicles-melting.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Improv for Evil",
+   "artist": "Brian Boyko",
+   "category": "Misc",
+   "duration": 58,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/improv-for-evil.m4a",
+   "size": "0.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Improved Ice Cream Truck",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 51,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/improved-ice-cream-truck.m4a",
+   "size": "0.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Infinite Peace",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 76,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/infinite-peace.m4a",
+   "size": "1.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Infinite Wonder",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 190,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/infinite-wonder.m4a",
+   "size": "3.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Jack The Lumberer",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 170,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/jack-the-lumberer.m4a",
+   "size": "2.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Jethro on the Run",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 231,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/jethro-on-the-run.m4a",
+   "size": "3.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Jokull",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 245,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/jokull.m4a",
+   "size": "4.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Journey of Hope",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 349,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/journey-of-hope.m4a",
+   "size": "5.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Kalimba Relaxation Music",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 428,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/kalimba-relaxation-music.m4a",
+   "size": "6.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Land of Pirates",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 114,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/land-of-pirates.m4a",
+   "size": "1.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Lukewarm Banjo",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 32,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/lukewarm-banjo.m4a",
+   "size": "0.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Magical Transition",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 31,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/magical-transition.m4a",
+   "size": "0.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Mana Two - Part 1",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 234,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/mana-two-part-1.m4a",
+   "size": "3.8 MB",
+   "premium": true
+  },
+  {
+   "name": "Mana Two - Part 2",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 362,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/mana-two-part-2.m4a",
+   "size": "5.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Mana Two - Part 3",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 192,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/mana-two-part-3.m4a",
+   "size": "3.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Martini Sunset",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 174,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/martini-sunset.m4a",
+   "size": "2.9 MB",
+   "premium": true
+  },
+  {
+   "name": "Murder On The Bayou",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 128,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/murder-on-the-bayou.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Neptunian Princess",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 125,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/neptunian-princess.m4a",
+   "size": "2.0 MB",
+   "premium": true
+  },
+  {
+   "name": "Nomadic Sunset MMXIX",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 201,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/nomadic-sunset-mmxix.m4a",
+   "size": "3.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Nordic Wist",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 149,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/nordic-wist.m4a",
+   "size": "2.4 MB",
+   "premium": true
+  },
+  {
+   "name": "One Destination - Two Journeys",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 256,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/one-destination-two-journeys.m4a",
+   "size": "4.2 MB",
+   "premium": true
+  },
+  {
+   "name": "One Step Closer",
+   "artist": "Rafael Krux",
+   "category": "Misc",
+   "duration": 93,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/one-step-closer.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Painful Disorientation",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 91,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/painful-disorientation.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Painting Room",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 106,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/painting-room.m4a",
+   "size": "1.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Planeteer Reaction",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 248,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/planeteer-reaction.m4a",
+   "size": "4.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Quick Metal Riff 1",
+   "artist": "Brett VanDonsel",
+   "category": "Misc",
+   "duration": 7,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/quick-metal-riff-1.m4a",
+   "size": "0.1 MB",
+   "premium": true
+  },
+  {
+   "name": "River Meditation",
+   "artist": "Jason Shaw",
+   "category": "Misc",
+   "duration": 167,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/river-meditation.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Royal Coupling",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 134,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/royal-coupling.m4a",
+   "size": "2.1 MB",
+   "premium": true
+  },
+  {
+   "name": "Sciencenet Theme",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 44,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/sciencenet-theme.m4a",
+   "size": "0.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Silent Night (Unholy Night)",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 165,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/silent-night-unholy-night.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Soundtrack From the Starcourt Mall",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 217,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/soundtrack-from-the-starcourt-mall.m4a",
+   "size": "3.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Spec Ops",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 137,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/spec-ops.m4a",
+   "size": "2.2 MB",
+   "premium": true
+  },
+  {
+   "name": "Study and Relax",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 223,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/study-and-relax.m4a",
+   "size": "3.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Sun Up Gunned Down",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 87,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/sun-up-gunned-down.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Sunday Dub",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 209,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/sunday-dub.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "The Britons",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 307,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/the-britons.m4a",
+   "size": "5.1 MB",
+   "premium": true
+  },
+  {
+   "name": "The Celebrated Minuet",
+   "artist": "Rafael Krux",
+   "category": "Misc",
+   "duration": 217,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/the-celebrated-minuet.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "The Celebrated Minuet for Piano",
+   "artist": "Rafael Krux",
+   "category": "Misc",
+   "duration": 217,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/the-celebrated-minuet-for-piano.m4a",
+   "size": "3.5 MB",
+   "premium": true
+  },
+  {
+   "name": "The Crown",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 233,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/the-crown.m4a",
+   "size": "3.8 MB",
+   "premium": true
+  },
+  {
+   "name": "The Vikings",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 160,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/the-vikings.m4a",
+   "size": "2.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Trip Up North",
+   "artist": "Bryan Teoh",
+   "category": "Misc",
+   "duration": 168,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/trip-up-north.m4a",
+   "size": "2.7 MB",
+   "premium": true
+  },
+  {
+   "name": "Uberpunch",
+   "artist": "Alexander Nakarada",
+   "category": "Misc",
+   "duration": 94,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/uberpunch.m4a",
+   "size": "1.5 MB",
+   "premium": true
+  },
+  {
+   "name": "We Wish You a Merry Christmas",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 87,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/we-wish-you-a-merry-christmas.m4a",
+   "size": "1.4 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [1⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-16.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [2⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-26.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [3⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-36.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [4⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-46.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [5⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-56.m4a",
+   "size": "9.6 MB",
+   "premium": true
+  },
+  {
+   "name": "Wind of the Rainforest [6⧸6]",
+   "artist": "FreePD.com",
+   "category": "Misc",
+   "duration": 589,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wind-of-the-rainforest-66.m4a",
+   "size": "9.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Wisdom in the Sun",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 155,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/wisdom-in-the-sun.m4a",
+   "size": "2.5 MB",
+   "premium": true
+  },
+  {
+   "name": "Witch Waltz",
+   "artist": "Kevin MacLeod",
+   "category": "Misc",
+   "duration": 186,
+   "download": "https://raw.githubusercontent.com/AdilSoomro/ib-assets/master/music/misc/witch-waltz.m4a",
+   "size": "3.0 MB",
+   "premium": true
+  }
+ ]
+}
